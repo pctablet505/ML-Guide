@@ -73,5 +73,6 @@ The better path is to build a research background and pursue a PhD. You can eith
 
 After doing with the courses in around year, you will feel quite comfortable and confident, then you can select a problem you want to solve, maybe it can be your personal or some common problem everyone is trying to solve. Select that problem and spend time working on it. In 1-2 years of work, you will face a lot of challenges, and there will be learning. you will realize the model training and ML is less than 10% of the actual work required to solve the problem using AI. Most of the time you will spend figuring it out, where and how to apply ML, how to convert the problem into a ML optimization problem. Mathematicall modelling and more.
 
+---
 
 # AI without mathematics is like a Lamborgini without an Engine, it's cool but it doesn't work.
