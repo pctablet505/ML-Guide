@@ -1,12 +1,12 @@
 <a href="https://cs50.harvard.edu/ai/2024/">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="100%" alt="AI and ML Learning Path. A learning path in order, not a pile of links. Courses from a first look to research, and what each one is for.">
+  <img src="assets/hero-light.svg" width="100%" alt="AI and ML Learning Path. A learning path in order, not a pile of links.">
 </picture>
 </a>
 
-**A learning path in order, not a pile of links.** Four stages, in the order I would take them, and what each
-course gives you.
+Four stages, from a first look to research, in the order I would take them. Each line says what the course gives
+you.
 
 **[Start with CS50's Introduction to AI →](https://cs50.harvard.edu/ai/2024/)**
 
