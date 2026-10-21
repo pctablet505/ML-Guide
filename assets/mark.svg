@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="The lamp: a cord and a lit bulb">
+  <style>.c{fill:#0f172a;stroke:#0f172a}.b{fill:#f59e0b;stroke:#b45309}@media (prefers-color-scheme:dark){.c{fill:#cbd5e1;stroke:#cbd5e1}.b{fill:#fbbf24;stroke:#fbbf24}}</style>
+  <path class="c" d="M32 0V18" stroke-width="5"/>
+  <rect class="c" x="25" y="16" width="14" height="9.5" rx="2.5" stroke-width="0"/>
+  <circle class="b" cx="32" cy="42.5" r="15.75" stroke-width="2.5"/>
+</svg>
