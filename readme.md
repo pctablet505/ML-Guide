@@ -32,8 +32,7 @@ machine learning course.
 
 ## 3. Go deeper, in one direction
 
-With the foundations in place, pick a direction by interest; after it you can work in it on your own. Skip the one
-you will not use.
+Pick a direction by interest; after it you can work in it on your own. Skip the one you will not use.
 
 - **[MIT MicroMasters in Statistics and Data Science](https://micromasters.mit.edu/ds/)**, a set of MIT online courses:
   four on a track (focus area) you pick, always with Probability and Machine Learning, then a capstone exam (a final
@@ -45,12 +44,13 @@ you will not use.
 
 Each of these goes deep in one area once the basics hold.
 
-- **[CS231n, Deep Learning for Computer Vision](https://cs231n.stanford.edu/)** (Stanford): one quarter; recordings
-  from earlier years are on YouTube.
+- **[CS231n, Deep Learning for Computer Vision](https://cs231n.stanford.edu/)** (Stanford): one quarter; the 2017
+  lectures are [on YouTube](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv).
 - **[CS285, Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)** (Berkeley): one semester,
   with the weekly schedule on the site.
 - **[MIT 18.06, Linear Algebra](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)** (Gilbert Strang):
-  free on MIT OpenCourseWare, as taught in spring 2010. The mathematics under all of the above.
+  free on MIT OpenCourseWare, as taught in spring 2010. AI without mathematics is like a Lamborghini without an
+  engine: it's cool, but it doesn't work.
 
 ## After the courses
 
